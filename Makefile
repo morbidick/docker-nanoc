@@ -1,4 +1,4 @@
-.PHONY: dev
+.PHONY: image
 image:
 	docker build -t morbidick/nanoc .
 
